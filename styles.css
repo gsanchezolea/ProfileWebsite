@@ -1,0 +1,35 @@
+
+.table th {
+    text-align: center;
+}
+.table {
+    border-radius: 5px;
+    width: 50%;
+    margin: 0px auto;
+    float: none;  
+    padding: 50px;
+    margin: auto;   
+}
+div.centered{
+    position: relative;
+    top: 135px;    
+    text-align: center;
+    font-size: 50px;
+    padding-top: 0px;
+    margin-top: 0px;   
+}
+body{
+    padding: 0px;
+    margin-top: 0px;
+}
+div.row{
+    margin-top: 100px;
+    padding-top: 10px;
+    padding-left: 100px;
+}
+.headstyle{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+
